@@ -1,0 +1,10 @@
+{
+  "auths": {
+    "1234.some.server.docker.com": {
+      "username": "Other"
+    }
+  },
+  "credHelpers": {
+    "1234.some.server.docker.com": "login"
+  }
+}
